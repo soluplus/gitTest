@@ -1,1 +1,1 @@
-Testing Remote creation of Files and transferring external files
+Project to test functionality og Git, Github and test remote creation of Files and transferring external files
