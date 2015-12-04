@@ -1,2 +1,2 @@
 Some other text
-Another line
+Another line as a change.
